@@ -1,0 +1,14 @@
+# Ambiente Virtual Python (venv)
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+*/__pycache__/
+*.pyc
+
+# Outros arquivos comuns a ignorar (opcional)
+# .vscode/
+# .idea/
+# *.log
+# *.tmp
+
